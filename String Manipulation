@@ -1,0 +1,7 @@
+text = "Hello, World!"
+
+uppercase_text = text.upper()
+lowercase_text = text.lower()
+split_text = text.split(',')
+
+print(f"Uppercase: {uppercase_text}, Lowercase: {lowercase_text}, Split: {split_text}")
