@@ -1,0 +1,14 @@
+fruits = ["apple", "banana", "cherry"]
+print(f"Fruits: {fruits}")
+
+# Dictionaries
+student = {
+    "name": "John",
+    "age": 25,
+    "is_student": True
+}
+print(f"Student: {student}")
+
+# Tuples
+coordinates = (10.0, 20.0)
+print(f"Coordinates: {coordinates}")
