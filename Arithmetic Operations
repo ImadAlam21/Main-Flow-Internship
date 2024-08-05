@@ -1,0 +1,9 @@
+num1 = 10
+num2 = 5
+
+addition = num1 + num2
+subtraction = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2
+
+print(f"Addition: {addition}, Subtraction: {subtraction}, Multiplication: {multiplication}, Division: {division}")
